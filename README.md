@@ -14,6 +14,6 @@ to get a combined Atom feed.
 
 ## License
 
-If this is useful for you, buy me a beer or something?
+Licensed under the permissive MIT license (see LICENSE).
 
-If that license's not permissive enough, refer to LICENSE (the Unlicense).
+If this is useful for you, buy me a beer or something?
